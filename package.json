@@ -1,11 +1,11 @@
 {
   "name": "@corsaircoalition/strategy-sentinel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "bot component that analyzes game state and selects actions",
   "main": "out/index.js",
   "type": "module",
   "dependencies": {
-    "@corsaircoalition/common": "^1.0.2",
+    "@corsaircoalition/common": "^1.0.4",
     "@redis/client": "^1.5.8",
     "commander": "^10.0.1"
   },
